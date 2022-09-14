@@ -7,7 +7,11 @@
 using namespace std;
 int main()
 {
-	cout << ("first commit") << endl;
+	double f, t, a, b;
+	a = 1.3;
+	b = -0.5;
+
+	cout << ("second commit") << endl;
 
 	return 0;
 }

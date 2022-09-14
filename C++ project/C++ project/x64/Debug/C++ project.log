@@ -1,2 +1,4 @@
 ﻿  C++ project.cpp
+C:\Users\М\Desktop\OPI_LR_2\C++ project\C++ project\C++ project.cpp(10,9): warning C4101: f: неиспользованная локальная переменная
+C:\Users\М\Desktop\OPI_LR_2\C++ project\C++ project\C++ project.cpp(10,12): warning C4101: t: неиспользованная локальная переменная
   C++ project.vcxproj -> C:\Users\М\Desktop\OPI_LR_2\C++ project\x64\Debug\C++ project.exe
