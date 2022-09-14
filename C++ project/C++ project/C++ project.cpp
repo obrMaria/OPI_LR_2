@@ -11,7 +11,12 @@ int main()
 	a = 1.3;
 	b = -0.5;
 
-	cout << ("second commit") << endl;
+	setlocale(0, "");
+	cout << ("введите t: ");
+	cin >> t;
+
+	cout << ("t=")<< t << endl;
+
 
 	return 0;
 }
